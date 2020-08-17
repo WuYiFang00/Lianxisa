@@ -1,0 +1,13 @@
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.exe
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.deps.json
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.runtimeconfig.json
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.runtimeconfig.dev.json
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.dll
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\bin\Debug\netcoreapp3.1\Lianxi_Gongchang.pdb
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.csprojAssemblyReference.cache
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.csproj.CoreCompileInputs.cache
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.AssemblyInfoInputs.cache
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.AssemblyInfo.cs
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.dll
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.pdb
+D:\接收老师\11接收老师\lianxi\Lianxi_Gongchang\Lianxi_Gongchang\obj\Debug\netcoreapp3.1\Lianxi_Gongchang.genruntimeconfig.cache
